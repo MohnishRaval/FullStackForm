@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:MohnishRaval/FullStackFormFrontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MohnishRaval/SWE-645-Assignment-3.git
